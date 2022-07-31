@@ -73,7 +73,7 @@ session_start();
                 <div class="row">
                     <div class="col-sm-8 col-md-7 py-4">
                         <h4 class="text-white">About</h4>
-                        <p class="text-muted">Hotelex is a guest house booking platform</p>
+                        <p class="text-muted">Gentle Guest House is a guest house booking platform</p>
                     </div>
                     <div class="col-sm-4 offset-md-1 py-4 text-right">
                         <!-- User full name or email if logged in -->
@@ -88,7 +88,7 @@ session_start();
                                 <a class="text-white" href="sign-in.php">Sign in</a> <span class="text-white">or</span>
                                 <a href="register.php" class="text-white">Register </a>
                             </h4>
-                            <p class="text-muted">Log in so you can take advantage with our hotel room prices.</p>
+                            <p class="text-muted">Log in so you can take advantage with our guest house room prices.</p>
                         <?php } ?>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ session_start();
             <div class="container d-flex justify-content-between">
                 <a href="#" class="navbar-brand d-flex align-items-center">
                     <i class="fas fa-h-square mr-2"></i>
-                    <strong>Hotelex</strong>
+                    <strong>Gentle Guest House</strong>
                 </a>
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -302,7 +302,7 @@ session_start();
     </main>
 
     <footer class="container">
-        <p>&copy; Hotelex 2022</p>
+        <p>&copy; Gentle Guest House</p>
     </footer>
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

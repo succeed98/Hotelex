@@ -1,12 +1,12 @@
 {
-  "name": "hotel-mgmt-system",
+  "name": "Guest-House-Managemet-system",
   "version": "1.0.1",
-  "description": "Hotelex system for customer added with an admin feature to manage reservation.",
+  "description": "Gentle Guest House system for customer added with an admin feature to manage reservation.",
   "keywords": [
     "hotel",
-    "Hotelex",
+    "Gentle Guest House",
     "room reservation",
-    "Hotelex system",
+    "Gentle Guest House system",
     "hotel reservation system"
   ],
   "repository": "https://github.com/tramyardg/hotel-mgmt-system",

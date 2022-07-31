@@ -63,7 +63,7 @@ session_start();
                 <div class="row">
                     <div class="col-sm-8 col-md-7 py-4">
                         <h4 class="text-white">About</h4>
-                        <p class="text-muted">Hotelex is a guest house booking platform</p>
+                        <p class="text-muted">Gentle Guest House is a guest house booking platform</p>
                     </div>
                     <div class="col-sm-4 offset-md-1 py-4 text-right">
                         <?php if ($isSessionExists) { ?>
@@ -84,7 +84,7 @@ session_start();
                                 <a class="text-white" href="sign-in.php">Sign in</a> <span class="text-white">or</span>
                                 <a href="register.php" class="text-white">Register </a>
                             </h4>
-                            <p class="text-muted">Log in so you can take advantage with our hotel room prices.</p>
+                            <p class="text-muted">Log in so you can take advantage with our guest house room prices.</p>
                         <?php } ?>
                     </div>
                 </div>
@@ -94,7 +94,7 @@ session_start();
             <div class="container d-flex justify-content-between">
                 <a href="#" class="navbar-brand d-flex align-items-center">
                     <i class="fas fa-h-square mr-2"></i>
-                    <strong>Hotelex</strong>
+                    <strong>Gentle Guest House</strong>
                 </a>
                 <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -146,7 +146,7 @@ session_start();
 
         <section class="jumbotron text-center">
             <div class="container pt-lg-5 pl-5 px-5">
-                <h1 class="display-3">A brand new hotel beyond ordinary</h1>
+                <h1 class="display-3">A brand new guest house beyond ordinary</h1>
                 <p class="lead text-muted">Book your summer holidays with us now.</p>
                 <p>
                     <?php if ($isSessionExists) { ?>
@@ -200,7 +200,7 @@ session_start();
                             </div>
                             <img class="card-img-top" data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail" alt="Thumbnail [100%x225]" src="image/double.jpg" data-holder-rendered="true" style="height: 225px; width: 100%; display: block;">
                             <div class="card-body">
-                                <p class="card-text">The standard twin room is equipped with two single beds to house two people. An enticing set of top notch facilities to the optimum security level, a fully air conditioned twin room remains the perfect choice for your needs. Book hotel rooms with us and enjoy your trip with full fervor.</p>
+                                <p class="card-text">The standard twin room is equipped with two single beds to house two people. An enticing set of top notch facilities to the optimum security level, a fully air conditioned twin room remains the perfect choice for your needs. Book guest house rooms with us and enjoy your trip with full fervor.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <?php if ($isSessionExists) { ?>
                                         <button type="button" class="btn btn-sm btn-outline-success" data-rtype="Double" data-toggle="modal" data-target=".book-now-modal-lg">
@@ -464,7 +464,7 @@ session_start();
     </main>
 
     <footer class="container">
-        <p>&copy; Hotelex 2022</p>
+        <p>&copy; Gentle Guest House</p>
     </footer>
     <script src="js/utilityFunctions.js"></script>
     <script src="node_modules/jquery/dist/jquery.min.js"></script>
