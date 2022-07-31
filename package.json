@@ -1,12 +1,12 @@
 {
   "name": "hotel-mgmt-system",
   "version": "1.0.1",
-  "description": "Hotel booking system for customer added with an admin feature to manage reservation.",
+  "description": "Hotelex system for customer added with an admin feature to manage reservation.",
   "keywords": [
     "hotel",
-    "hotel booking",
+    "Hotelex",
     "room reservation",
-    "hotel booking system",
+    "Hotelex system",
     "hotel reservation system"
   ],
   "repository": "https://github.com/tramyardg/hotel-mgmt-system",
