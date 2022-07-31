@@ -14,9 +14,9 @@ class DB
             $db_info = array(
                 "host" => "localhost",
                 "port" => "3306",
-                "user" => "root",
-                "pass" => "",
-                "name" => "hotel",
+                "user" => "fourteen",
+                "pass" => "fourteen98",
+                "name" => "hotelex",
                 "charset" => "UTF-8"
             );
 

@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `hotel`
+-- Database: `hotelex`
 --
 
 -- --------------------------------------------------------
@@ -67,7 +67,6 @@ INSERT INTO `customer` (`cid`, `fullname`, `email`, `password`, `phone`,`isadmin
   (10, 'Martha Smith', 'martha@hotmail.com', '$2y$10$L8elMrSO59YGZdGjnQxURuWK7FZUJpL8QgZPT7pKIwCu42PvU8Mm2', '5149991111',0),
   (11, 'admin@gmail.com', 'admin@gmail.com', '$2y$10$nfud5jYwEnMmqv8YgUF3p.wh3EVGAONlRUUiu2TqFiNW.GsU6QKGm', '',1),
   (12, 'admin@admin.com', 'admin@admin.com', '$2y$10$4FJtbVGCIpFnNxcDvSSXUueMESuDDoZvtygT/O4J9UHB1vfdO3Vza', '',1);
-  (13, 'yaw@admin.com', 'yaw@admin.com', 'qwerty', '',1);
 
 -- --------------------------------------------------------
 
